@@ -269,10 +269,10 @@ public class BibleQuoteImageProcessor {
             BufferedImage processedImage = processImage(imageUrl);
 
             // Save image locally
-            //saveImageLocally(processedImage);
+            saveImageLocally(processedImage);
 
             // Send email with the image
-            sendEmailWithImage(processedImage);
+            //sendEmailWithImage(processedImage);
 
             System.out.println("Daily Bible quote processed successfully!");
         } catch (Exception e) {
