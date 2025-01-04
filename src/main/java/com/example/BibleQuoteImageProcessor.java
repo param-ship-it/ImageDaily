@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 import jakarta.activation.DataHandler;
 import jakarta.mail.*;
@@ -29,7 +29,7 @@ import java.util.Properties;
 
 public class BibleQuoteImageProcessor {
     // Configuration Constants
-    private static final String WEBSITE_URL = "https://teluguchristiangateway.wordpress.com/2023/03/";
+    private static final String WEBSITE_URL = "https://teluguchristiangateway.wordpress.com/2023/02/";
 
     // Email Configuration
     private static final String EMAIL_FROM = "your-email@gmail.com";
@@ -145,7 +145,7 @@ public class BibleQuoteImageProcessor {
 
         // Right side - Placeholder for Pastor Photo
         try {
-            BufferedImage pastorPhoto = ImageIO.read(BibleQuoteImageProcessor.class.getResourceAsStream("/pastor_photo.jpg"));
+            BufferedImage pastorPhoto = ImageIO.read(BibleQuoteImageProcessor.class.getResourceAsStream("/pastor_photo1.png"));
 
             // Resize and crop photo to square
             int photoSize =300;

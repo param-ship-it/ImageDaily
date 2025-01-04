@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c45790-c4f0-4183-8cf9-24057b4cd568" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/daily_bible_quotes/2024-12-16_bible_quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pastor_photo1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BibleQuoteImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BibleQuoteImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BibleQuoteImageProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BibleQuoteImageProcessor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../daily_bible_quotes/2024-12-14_bible_quote.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +49,17 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/param/Documents/Shop/WhatsappWeb/Imagedaily"
+    "last_opened_file_path": "/Users/param/Documents/Shop/WhatsappWeb/Imagedaily/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
